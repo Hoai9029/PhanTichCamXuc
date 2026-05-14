@@ -49,7 +49,7 @@ Dự án nghiên cứu bài toán **Aspect-Based Sentiment Analysis (ABSA)** tr�
 ## Dataset
 
 **Twitter-2015** — tập dữ liệu ABSA tiêu chuẩn cho multimodal sentiment analysis.
-
+Tải bộ dữ liệu tại: https://github.com/jefferyYu/TomBERT
 | Split | Số mẫu |
 |---|---|
 | Train | ~7,038 |
